@@ -1,6 +1,6 @@
 {
-    "START": "Hi, You can message my owner with this bot. You can send any media. My owner will reply ur message ASAP!",
-    "ERROR_REPLY": "*Please reply an message.*",
-    "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
-    "SENDER": "*Sender:*"
+    "START": "你好！欢迎使用Direction.的投稿专用通道！  在这里您可以完成投稿/领奖/售后/商务合作等操作。  本机器人后面并不是一个人，是一群人，还请注意。  （虽然有的时候所有人都不在，咕咕咕）  本机器人由Direction.开发。",
+    "ERROR_REPLY": "*DirectionError-请回复一条消息。*",
+    "ERROR_NOTFOUND": "*DirectionError-消息不在数据库中，无法回复。*",
+    "SENDER": "*发送者:*"
 }
