@@ -1,6 +1,6 @@
 {
-    "START": "你好！欢迎使用Direction.的投稿专用通道！ \n在这里您可以完成投稿/领奖/售后/商务合作等操作。 \n本机器人后面并不是一个人，是一群人，还请注意。 \n（虽然有的时候所有人都不在，咕咕咕） \n客服工作时间：09:00-21:00 \n本机器人由Direction.开发。",
-    "ERROR_REPLY": "*DirectionError-请回复一条消息。*",
-    "ERROR_NOTFOUND": "*DirectionError-消息不在数据库中，无法回复。*",
+    "START": "你好！欢迎使用Qi's Bot！ \n在这里您可以和 @liyuqi 私聊 \n（虽然有的时候人不在）\n本机器人由liyuqi开发。",
+    "ERROR_REPLY": "*liyuqiError-请回复一条消息。*",
+    "ERROR_NOTFOUND": "*liyuqiError-消息不在数据库中，无法回复。*",
     "SENDER": "*发送者:*"
 }
